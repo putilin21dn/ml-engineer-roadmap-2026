@@ -96,15 +96,15 @@
 
 ### Completed
 
-* [ ] ML fundamentals.
-* [ ] Classical algorithms.
-* [ ] Metrics.
-* [ ] Cross-validation.
-* [ ] Feature engineering.
-* [ ] Data leakage.
-* [ ] Baseline model.
-* [ ] Model comparison.
-* [ ] Error analysis.
+* [x] ML fundamentals.
+* [x] Classical algorithms.
+* [x] Metrics.
+* [x] Cross-validation.
+* [x] Feature engineering.
+* [x] Data leakage.
+* [x] Baseline model.
+* [x] Model comparison.
+* [x] Error analysis.
 
 ### Artifacts
 

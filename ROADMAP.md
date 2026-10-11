@@ -22,37 +22,6 @@ Roadmap определяет **порядок работы**, а `README.md` с�
 
 ---
 
-# Week 0 — Setup
-
-### 25–27 сентября
-
-### Repository
-
-* [ ] Создать структуру репозитория.
-* [ ] Создать `README.md`.
-* [ ] Создать `ROADMAP.md`.
-* [ ] Создать `PROGRESS.md`.
-* [ ] Создать директории для проектов.
-* [ ] Настроить `.gitignore`.
-* [ ] Настроить `pyproject.toml`.
-* [ ] Настроить Ruff.
-* [ ] Настроить pytest.
-* [ ] Настроить pre-commit.
-* [ ] Создать базовый CI pipeline.
-
-### Environment
-
-* [ ] Настроить Python environment.
-* [ ] Зафиксировать зависимости.
-* [ ] Проверить локальный запуск тестов.
-* [ ] Проверить linting.
-* [ ] Сделать первый commit.
-
-### Результат
-
-Рабочий репозиторий, в котором можно развивать все последующие проекты.
-
----
 
 # Week 1 — ML Fundamentals
 
@@ -60,44 +29,41 @@ Roadmap определяет **порядок работы**, а `README.md` с�
 
 ## Теория
 
-* [ ] Bias / Variance.
-* [ ] Overfitting / Underfitting.
-* [ ] Train / validation / test.
-* [ ] Cross-validation.
-* [ ] Data leakage.
-* [ ] Feature engineering.
-* [ ] Regularization.
-* [ ] Hyperparameter optimization.
+* [V] Bias / Variance.
+* [V] Overfitting / Underfitting.
+* [V] Train / validation / test.
+* [V] Cross-validation.
+* [V] Data leakage.
+* [V] Feature engineering.
+* [V] Regularization.
+* [V] Hyperparameter optimization.
 
 ## Algorithms
 
-* [ ] Linear Regression.
-* [ ] Logistic Regression.
-* [ ] Decision Tree.
-* [ ] Random Forest.
-* [ ] Gradient Boosting.
-* [ ] CatBoost / LightGBM.
+* [V] Linear Regression.
+* [V] Logistic Regression.
+* [V] Decision Tree.
+* [V] Random Forest.
+* [V] Gradient Boosting.
+* [V] CatBoost / LightGBM.
 
 ## Metrics
 
-* [ ] Accuracy.
-* [ ] Precision.
-* [ ] Recall.
-* [ ] F1.
-* [ ] ROC-AUC.
-* [ ] PR-AUC.
-* [ ] MAE.
-* [ ] MSE.
-* [ ] RMSE.
+* [V] Accuracy.
+* [V] Precision.
+* [V] Recall.
+* [V] F1.
+* [V] ROC-AUC.
+* [V] PR-AUC.
 
 ## Практика
 
-* [ ] Создать baseline ML pipeline.
-* [ ] Сделать preprocessing.
-* [ ] Обучить несколько моделей.
-* [ ] Провести cross-validation.
-* [ ] Сравнить модели.
-* [ ] Провести error analysis.
+* [V] Создать baseline ML pipeline.
+* [V] Сделать preprocessing.
+* [V] Обучить несколько моделей.
+* [V] Провести cross-validation.
+* [V] Сравнить модели.
+* [V] Провести error analysis.
 
 ### Результат недели
 

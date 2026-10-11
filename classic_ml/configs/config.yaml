@@ -1,0 +1,5 @@
+kaggle_path: "blastchar/telco-customer-churn"
+kaggle_dataset: "WA_Fn-UseC_-Telco-Customer-Churn.csv"
+train_path: "data/train_data.csv"
+test_path: "data/test_data.csv"
+trashold: 0.5
