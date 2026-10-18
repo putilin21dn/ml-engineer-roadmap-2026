@@ -15,9 +15,9 @@
 
 **Target:** Middle / Middle+ ML / LLM Engineer
 
-**Current phase:** Setup
+**Current phase:** Week 4 — Transformers
 
-**Last update:** —
+**Last update:** 19 October 2026
 
 ---
 
@@ -38,23 +38,23 @@
 
 | Area                         | Progress |
 | ---------------------------- | -------: |
-| ML Fundamentals              |       0% |
+| ML Fundamentals              |     100% |
 | Statistics & Experimentation |       0% |
-| PyTorch                      |       0% |
-| Deep Learning                |       0% |
+| PyTorch                      |     100% |
+| Deep Learning                |      30% |
 | Transformers                 |       0% |
 | Language Models              |       0% |
 | LLM Engineering              |       0% |
 | RAG                          |       0% |
 | LLM Evaluation               |       0% |
 | Fine-tuning                  |       0% |
-| ML Engineering               |       0% |
-| MLOps                        |       0% |
+| ML Engineering               |     100% |
+| MLOps                        |      25% |
 | Data Engineering             |       0% |
 | ML System Design             |       0% |
 | Python Interview             |       0% |
 | SQL Interview                |       0% |
-| Portfolio                    |       0% |
+| Portfolio                    |      25% |
 | Interview Preparation        |       0% |
 
 ---
@@ -67,16 +67,16 @@
 
 ### Completed
 
-* [ ] Repository structure.
-* [ ] Python environment.
+* [x] Repository structure.
+* [x] Python environment.
 * [ ] `pyproject.toml`.
 * [ ] Ruff.
-* [ ] pytest.
+* [x] pytest.
 * [ ] pre-commit.
 * [ ] CI.
-* [ ] README.
-* [ ] ROADMAP.
-* [ ] PROGRESS.
+* [x] README.
+* [x] ROADMAP.
+* [x] PROGRESS.
 
 ### Notes
 
@@ -108,10 +108,10 @@
 
 ### Artifacts
 
-* Notebook:
-* Code:
-* Experiment:
-* Report:
+* Notebook: `classic_ml/classify.ipynb`
+* Code: `classic_ml/scripts/`
+* Experiment: churn classification, GridSearchCV + CatBoost
+* Report: error analysis в ноутбуке
 
 ### What I learned
 
@@ -129,20 +129,20 @@
 
 ### Completed
 
-* [ ] MLflow.
-* [ ] Experiment tracking.
-* [ ] Model registry.
-* [ ] FastAPI.
-* [ ] Docker.
-* [ ] API tests.
-* [ ] Local deployment.
+* [x] MLflow.
+* [x] Experiment tracking.
+* [x] Model registry.
+* [x] FastAPI.
+* [x] Docker.
+* [x] API tests.
+* [x] Local deployment.
 
 ### Artifacts
 
-* Repository:
-* MLflow experiment:
-* Docker image:
-* API:
+* Repository: `classic_ml/`
+* MLflow experiment: `churn` / model `churn-classifier`
+* Docker image: `classic_ml/Dockerfile`
+* API: `GET /health`, `POST /predict`
 
 ### What I learned
 
@@ -160,20 +160,20 @@
 
 ### Completed
 
-* [ ] Tensor operations.
-* [ ] Autograd.
-* [ ] Dataset / DataLoader.
-* [ ] Neural network.
-* [ ] Training loop.
-* [ ] Validation loop.
-* [ ] Optimizer.
-* [ ] Checkpointing.
+* [x] Tensor operations.
+* [x] Autograd.
+* [x] Dataset / DataLoader.
+* [x] Neural network.
+* [x] Training loop.
+* [x] Validation loop.
+* [x] Optimizer.
+* [x] Checkpointing.
 
 ### Artifacts
 
-* Code:
-* Notebook:
-* Experiment:
+* Code: `ml/test_pytorch.ipynb`
+* Notebook: `ml/test_pytorch.ipynb`
+* Experiment: `SimpleNet`, MSE + Adam, early stopping, `ml/checkpoints/`
 
 ### What I learned
 
@@ -598,16 +598,16 @@
 
 ### Status
 
-* [ ] Idea defined.
-* [ ] Dataset selected.
-* [ ] Baseline.
-* [ ] Feature engineering.
-* [ ] Model training.
-* [ ] Evaluation.
-* [ ] MLflow.
-* [ ] API.
-* [ ] Docker.
-* [ ] Tests.
+* [x] Idea defined.
+* [x] Dataset selected.
+* [x] Baseline.
+* [x] Feature engineering.
+* [x] Model training.
+* [x] Evaluation.
+* [x] MLflow.
+* [x] API.
+* [x] Docker.
+* [x] Tests.
 * [ ] CI.
 * [ ] Monitoring.
 * [ ] Documentation.
@@ -826,9 +826,9 @@ Legend:
 
 ## Knowledge
 
-* [ ] ML fundamentals.
+* [x] ML fundamentals.
 * [ ] Statistics.
-* [ ] PyTorch.
+* [x] PyTorch.
 * [ ] Deep Learning.
 * [ ] Transformers.
 * [ ] LLM fundamentals.
@@ -840,13 +840,13 @@ Legend:
 
 ## Engineering
 
-* [ ] Production ML service.
-* [ ] REST API.
-* [ ] Docker.
+* [x] Production ML service.
+* [x] REST API.
+* [x] Docker.
 * [ ] CI.
-* [ ] Experiment tracking.
+* [x] Experiment tracking.
 * [ ] Monitoring.
-* [ ] Reproducible experiments.
+* [x] Reproducible experiments.
 
 ## LLM Engineering
 
@@ -885,13 +885,13 @@ Legend:
 
 **Target:** Middle / Middle+ ML / LLM Engineer
 
-**Completed:** 0%
+**Completed:** 21% (weeks 1–3 of 14)
 
 **Portfolio projects:** 0 / 3
 
-**Major areas completed:** 0 / 17
+**Major areas completed:** 3 / 19
 
-**Last updated:** —
+**Last updated:** 19 October 2026
 
 ---
 
@@ -899,11 +899,17 @@ Legend:
 
 ## 2026-09-25
 
-* [ ] Roadmap started.
-* [ ] Repository structure created.
-* [ ] Initial progress tracking created.
+* [x] Roadmap started.
+* [x] Repository structure created.
+* [x] Initial progress tracking created.
 
 ## 2026-09-27
 
-* [ ] ROADMAP.md prepared.
-* [ ] PROGRESS.md prepared.
+* [x] ROADMAP.md prepared.
+* [x] PROGRESS.md prepared.
+
+## 2026-10-19
+
+* [x] Week 1 checkpoints confirmed.
+* [x] Week 2 checkpoints marked.
+* [x] Week 3 checkpoints marked.

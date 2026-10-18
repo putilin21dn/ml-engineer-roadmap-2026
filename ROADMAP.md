@@ -77,35 +77,35 @@ Roadmap определяет **порядок работы**, а `README.md` с�
 
 ## Experiment Management
 
-* [ ] MLflow.
-* [ ] Tracking parameters.
-* [ ] Tracking metrics.
-* [ ] Tracking artifacts.
-* [ ] Model registry.
-* [ ] Reproducibility.
+* [V] MLflow.
+* [V] Tracking parameters.
+* [V] Tracking metrics.
+* [V] Tracking artifacts.
+* [V] Model registry.
+* [V] Reproducibility.
 
 ## API
 
-* [ ] FastAPI.
-* [ ] Pydantic.
-* [ ] `/predict`.
-* [ ] `/health`.
-* [ ] Validation ошибок.
+* [V] FastAPI.
+* [V] Pydantic.
+* [V] `/predict`.
+* [V] `/health`.
+* [V] Validation ошибок.
 
 ## Docker
 
-* [ ] Dockerfile.
-* [ ] Docker image.
-* [ ] Environment variables.
-* [ ] Local deployment.
+* [V] Dockerfile.
+* [V] Docker image.
+* [V] Environment variables.
+* [V] Local deployment.
 
 ## Практика
 
-* [ ] Обернуть ML-модель в API.
-* [ ] Добавить MLflow.
-* [ ] Собрать Docker image.
-* [ ] Запустить сервис локально.
-* [ ] Добавить тесты API.
+* [V] Обернуть ML-модель в API.
+* [V] Добавить MLflow.
+* [V] Собрать Docker image.
+* [V] Запустить сервис локально.
+* [V] Добавить тесты API.
 
 ### Результат недели
 
@@ -119,32 +119,32 @@ ML-модель доступна как воспроизводимый серв�
 
 ## Fundamentals
 
-* [ ] Tensor.
-* [ ] Shape.
-* [ ] Broadcasting.
-* [ ] Autograd.
-* [ ] Dataset.
-* [ ] DataLoader.
-* [ ] Module.
-* [ ] Optimizer.
-* [ ] Loss.
+* [V] Tensor.
+* [V] Shape.
+* [V] Broadcasting.
+* [V] Autograd.
+* [V] Dataset.
+* [V] DataLoader.
+* [V] Module.
+* [V] Optimizer.
+* [V] Loss.
 
 ## Training
 
-* [ ] Forward pass.
-* [ ] Backpropagation.
-* [ ] Training loop.
-* [ ] Validation loop.
-* [ ] Checkpointing.
-* [ ] Early stopping.
+* [V] Forward pass.
+* [V] Backpropagation.
+* [V] Training loop.
+* [V] Validation loop.
+* [V] Checkpointing.
+* [V] Early stopping.
 
 ## Практика
 
-* [ ] Реализовать neural network.
-* [ ] Написать training loop самостоятельно.
-* [ ] Добавить validation.
-* [ ] Сохранять checkpoints.
-* [ ] Построить графики train/validation loss.
+* [V] Реализовать neural network.
+* [V] Написать training loop самостоятельно.
+* [V] Добавить validation.
+* [V] Сохранять checkpoints.
+* [V] Построить графики train/validation loss.
 
 ### Результат недели
 
