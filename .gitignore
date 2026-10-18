@@ -1,2 +1,5 @@
 classic_ml/catboost_info/
 classic_ml/mlflow.db
+
+classic_ml/classic_venv/
+ml/venv/
