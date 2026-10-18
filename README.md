@@ -28,9 +28,9 @@ The main principle:
 
 # 📊 Overall Progress
 
-* [ ] ML Fundamentals
-* [ ] ML Engineering
-* [ ] PyTorch
+* [x] ML Fundamentals
+* [x] ML Engineering
+* [x] PyTorch
 * [ ] Deep Learning
 * [ ] Transformers
 * [ ] LLM Engineering
@@ -47,28 +47,28 @@ The main principle:
 
 ## Fundamentals
 
-* [ ] Bias / Variance
-* [ ] Overfitting / Underfitting
-* [ ] Train / Validation / Test
-* [ ] Cross-validation
-* [ ] Regularization
-* [ ] Data leakage
-* [ ] Feature engineering
+* [x] Bias / Variance
+* [x] Overfitting / Underfitting
+* [x] Train / Validation / Test
+* [x] Cross-validation
+* [x] Regularization
+* [x] Data leakage
+* [x] Feature engineering
 * [ ] Feature selection
-* [ ] Class imbalance
+* [x] Class imbalance
 * [ ] Calibration
 * [ ] Model interpretability
 
 ## Algorithms
 
-* [ ] Linear Regression
-* [ ] Logistic Regression
-* [ ] Decision Trees
-* [ ] Random Forest
-* [ ] Gradient Boosting
+* [x] Linear Regression
+* [x] Logistic Regression
+* [x] Decision Trees
+* [x] Random Forest
+* [x] Gradient Boosting
 * [ ] XGBoost
 * [ ] LightGBM
-* [ ] CatBoost
+* [x] CatBoost
 * [ ] k-NN
 * [ ] Naive Bayes
 * [ ] SVM
@@ -79,14 +79,14 @@ The main principle:
 
 ### Classification
 
-* [ ] Accuracy
-* [ ] Precision
-* [ ] Recall
-* [ ] F1
-* [ ] ROC-AUC
-* [ ] PR-AUC
+* [x] Accuracy
+* [x] Precision
+* [x] Recall
+* [x] F1
+* [x] ROC-AUC
+* [x] PR-AUC
 * [ ] LogLoss
-* [ ] Confusion Matrix
+* [x] Confusion Matrix
 * [ ] Calibration
 
 ### Regression
@@ -102,7 +102,7 @@ The main principle:
 * [ ] Feature importance
 * [ ] Permutation importance
 * [ ] SHAP
-* [ ] Error analysis
+* [x] Error analysis
 * [ ] Calibration
 * [ ] Threshold optimization
 
@@ -158,26 +158,26 @@ The main principle:
 
 ## Fundamentals
 
-* [ ] Tensor
-* [ ] Tensor shapes
-* [ ] Broadcasting
-* [ ] Autograd
-* [ ] Computational graph
-* [ ] `nn.Module`
-* [ ] Dataset
-* [ ] DataLoader
-* [ ] Optimizers
+* [x] Tensor
+* [x] Tensor shapes
+* [x] Broadcasting
+* [x] Autograd
+* [x] Computational graph
+* [x] `nn.Module`
+* [x] Dataset
+* [x] DataLoader
+* [x] Optimizers
 * [ ] Learning rate schedulers
 
 ## Training
 
-* [ ] Forward pass
-* [ ] Loss calculation
-* [ ] Backpropagation
-* [ ] Gradient update
-* [ ] Validation loop
-* [ ] Checkpointing
-* [ ] Early stopping
+* [x] Forward pass
+* [x] Loss calculation
+* [x] Backpropagation
+* [x] Gradient update
+* [x] Validation loop
+* [x] Checkpointing
+* [x] Early stopping
 * [ ] Gradient clipping
 * [ ] Gradient accumulation
 
@@ -185,7 +185,7 @@ The main principle:
 
 * [ ] SGD
 * [ ] Momentum
-* [ ] Adam
+* [x] Adam
 * [ ] AdamW
 * [ ] Weight decay
 * [ ] Learning rate schedules
@@ -194,10 +194,10 @@ The main principle:
 
 ## Practical
 
-* [ ] Write MLP from scratch
-* [ ] Write training loop from scratch
-* [ ] Implement validation loop
-* [ ] Implement checkpointing
+* [x] Write MLP from scratch
+* [x] Write training loop from scratch
+* [x] Implement validation loop
+* [x] Implement checkpointing
 * [ ] Debug exploding gradients
 * [ ] Debug vanishing gradients
 
@@ -205,21 +205,21 @@ The main principle:
 
 # 4. 🧠 Deep Learning
 
-* [ ] Neural network fundamentals
-* [ ] Activation functions
-* [ ] Loss functions
-* [ ] Backpropagation
+* [x] Neural network fundamentals
+* [x] Activation functions
+* [x] Loss functions
+* [x] Backpropagation
 * [ ] Initialization
 * [ ] Batch Normalization
 * [ ] Layer Normalization
 * [ ] Dropout
 * [ ] Regularization
-* [ ] Optimization
+* [x] Optimization
 * [ ] Transfer learning
 
 ## Architectures
 
-* [ ] MLP
+* [x] MLP
 * [ ] CNN
 * [ ] RNN
 * [ ] LSTM
@@ -503,31 +503,31 @@ The main principle:
 
 ## Code Quality
 
-* [ ] Project structure
+* [x] Project structure
 * [ ] Type hints
 * [ ] Logging
-* [ ] Configuration
-* [ ] Environment variables
-* [ ] Error handling
-* [ ] Unit tests
+* [x] Configuration
+* [x] Environment variables
+* [x] Error handling
+* [x] Unit tests
 * [ ] Integration tests
 
 ## APIs
 
-* [ ] FastAPI
-* [ ] Request validation
-* [ ] Response schemas
+* [x] FastAPI
+* [x] Request validation
+* [x] Response schemas
 * [ ] Authentication basics
 * [ ] Async endpoints
 * [ ] Streaming
 
 ## Docker
 
-* [ ] Dockerfile
+* [x] Dockerfile
 * [ ] Docker Compose
 * [ ] Multi-stage builds
-* [ ] Environment configuration
-* [ ] Health checks
+* [x] Environment configuration
+* [x] Health checks
 
 ## CI/CD
 
@@ -543,10 +543,10 @@ The main principle:
 
 ## Experiment Tracking
 
-* [ ] MLflow
-* [ ] Experiment tracking
-* [ ] Artifact tracking
-* [ ] Model registry
+* [x] MLflow
+* [x] Experiment tracking
+* [x] Artifact tracking
+* [x] Model registry
 
 ## Data
 
@@ -556,9 +556,9 @@ The main principle:
 
 ## Models
 
-* [ ] Model versioning
-* [ ] Model registry
-* [ ] Model promotion
+* [x] Model versioning
+* [x] Model registry
+* [x] Model promotion
 * [ ] Rollback
 
 ## Monitoring
@@ -720,17 +720,17 @@ Already have practical experience here; focus on closing ML-specific gaps.
 
 ## Project 01 — Production ML System
 
-* [ ] Define problem
-* [ ] Select dataset
-* [ ] Build baseline
-* [ ] Feature engineering
-* [ ] Train model
-* [ ] Evaluate model
-* [ ] Error analysis
-* [ ] MLflow
-* [ ] FastAPI
-* [ ] Docker
-* [ ] Tests
+* [x] Define problem
+* [x] Select dataset
+* [x] Build baseline
+* [x] Feature engineering
+* [x] Train model
+* [x] Evaluate model
+* [x] Error analysis
+* [x] MLflow
+* [x] FastAPI
+* [x] Docker
+* [x] Tests
 * [ ] CI
 * [ ] Monitoring
 * [ ] README
@@ -739,10 +739,10 @@ Already have practical experience here; focus on closing ML-specific gaps.
 ### Definition of Done
 
 * [ ] Someone can clone the repository
-* [ ] Run the project
-* [ ] Train the model
-* [ ] Start the API
-* [ ] Send prediction request
+* [x] Run the project
+* [x] Train the model
+* [x] Start the API
+* [x] Send prediction request
 * [ ] Understand the architecture
 * [ ] Understand the experiments
 
@@ -927,8 +927,8 @@ Only then:
 
 The roadmap is considered complete when:
 
-* [ ] I can build a classical ML system end-to-end
-* [ ] I can build a PyTorch model
+* [x] I can build a classical ML system end-to-end
+* [x] I can build a PyTorch model
 * [ ] I understand Transformer architecture
 * [ ] I can build a RAG system
 * [ ] I can evaluate RAG quality
